@@ -15,9 +15,14 @@
 - [Zi Whee](https://github.com/Zhwee)
 
 
-# Melon Brain
+# SingaDrive
 
-[Melon Brain](https://github.com/Juicy-Lemonberry/Melon-Brain) is a project that aims to create a platform for users to share their educational knowledge through blog-like posts.<br>Melon Brain will create a community where users can not only share their knowledge, but create meaningful discussions by commenting on posts and asking questions.<br>The main goal of Melon Brain is to create an interactive platform for knowledge sharing.
+SingaDrive is a project that aims to create a platform for car rental and sharing services.<br>SingaDrive features a map-based interface where users can easily book and rent a car near their location, for durations as short as 15minutes to a month!
+
+**Repo**
+- [Web Application](https://github.com/Juicy-Lemonberry/SingaDrive-Web)
+- [Database](https://github.com/Juicy-Lemonberry/SingaDrive-Database)
+- [Embedded, Car Systems API](https://github.com/Juicy-Lemonberry/SingaDrive-Embedded)
 
 **Team Members:**
 - [WQYeo](https://github.com/wqyeo)
