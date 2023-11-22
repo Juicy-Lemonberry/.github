@@ -17,12 +17,11 @@
 
 # SingaDrive
 
-SingaDrive is a project that aims to create a platform for car rental and sharing services.<br>SingaDrive features a map-based interface where users can easily book and rent a car near their location, for durations as short as 15minutes to a month!
+SingaDrive is a project that aims to create a platform for car rental services.<br>SingaDrive features a map-based interface where users can easily book and rent a car near their location. Additionally, it includes a forum page for car discussions!
 
 **Repo**
 - [Web Application](https://github.com/Juicy-Lemonberry/SingaDrive-Web)
 - [Database](https://github.com/Juicy-Lemonberry/SingaDrive-Database)
-- [Embedded, Car Systems API](https://github.com/Juicy-Lemonberry/SingaDrive-Embedded)
 
 **Team Members:**
 - [WQYeo](https://github.com/wqyeo)
