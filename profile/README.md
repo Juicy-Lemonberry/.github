@@ -2,6 +2,21 @@
 
 [Juicy Lemonberry](https://github.com/Juicy-Lemonberry) is a personally created organization by [wqyeo](https://github.com/wqyeo) to host some school projects _(and maybe some hobby projects)_.
 
+# Project ORION
+
+A Remotely Operated Vehicle (ROV) system designed to aid tertiary education by allowing students to safely conduct under-vehicle inspections. The project integrates a mobile application with the ROV to provide live footage, enhancing both safety and learning efficiency. 
+
+**Repo**
+
+- [Project ORION](https://github.com/Juicy-Lemonberry/Project-ORION)
+
+**Team Members**:
+
+- [@NekoCoaster](https://github.com/NekoCoaster)
+- [@wqyeo](https://github.com/wqyeo)
+- [@Zhwee](https://github.com/Zhwee)
+- [@minvee](https://github.com/minvee)
+- [@vianiecetan](https://github.com/vianiecetan)
 
 # SingaDrive
 
